@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "icarus-character-editor",
+  "outputfilename": "icarus-character-editor",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Donovan C. Young",
+    "email": "dyoung522@gmail.com"
+  }
+}
